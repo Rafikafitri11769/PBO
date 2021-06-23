@@ -1,2 +1,4 @@
 # PBO
-untuk tugas Pemrograman Berorientasi Objek
+Repository Untuk Tugas Pemrograman Berorientasi Objek
+Nama  : Rafika Fitri
+Nim   : A11.2019.11769
