@@ -1,3 +1,8 @@
+# Program ini dibuat menggunakan:
+IDE : Netbeans IDE 12.4
+JDK : JDK vers 15.0.2
+Database: MYSQL Connector
+
 # UAS_PBO_4423_A11.2019.11769
         Nama: Rafika Fitri Hidayati
         Nim: A11.2019.11769
