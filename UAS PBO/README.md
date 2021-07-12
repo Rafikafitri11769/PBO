@@ -11,3 +11,4 @@
 ## Penjelasan Alur Program
 
 file penjelasan alur program:
+https://github.com/Rafikafitri11769/PBO/blob/main/UAS%20PBO/UAS_PBO_A11.4423_A11.2019.11769_Rafika%20Fitri%20Hidayati.pdf
